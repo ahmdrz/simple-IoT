@@ -23,4 +23,3 @@ except KeyboardInterrupt:
    pass
 p.stop()
 GPIO.cleanup()
-
