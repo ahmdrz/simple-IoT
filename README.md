@@ -2,6 +2,7 @@
 Very simple projects for IoT
 
 This project is a simple way to control <b>PWM</b> values from anywhere using internet.
+Note that the security is low. I just use a token in request header.
 
 ## What we need ?
 
